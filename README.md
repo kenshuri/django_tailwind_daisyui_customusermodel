@@ -1,8 +1,6 @@
 # Minimal template to set-up a Django project with TailwindCSS and daisyUI and a custom user model
 
-As described, this code will set-up a Django Project with tailwindCSS and daisyUI. The auto-reload feature is also included.
-
-The code for this was vastly inspired from a stackoverflow answer on [How to use TailwindCSS with Django?](https://stackoverflow.com/questions/63392426/how-to-use-tailwindcss-with-django#63392427).
+Source code relative to my [blog post](https://kenshuri-blog.herokuapp.com/posts/003_define_custom_user.md) about adding a custom user model in Django.
 
 ## Set-up the project
 
