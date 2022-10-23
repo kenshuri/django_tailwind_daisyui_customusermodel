@@ -1,6 +1,6 @@
 # Minimal template to set-up a Django project with TailwindCSS and daisyUI and a custom user model
 
-Source code relative to my [blog post](https://kenshuri-blog.herokuapp.com/posts/003_define_custom_user.md) about adding a custom user model in Django.
+Source code relative to my [blog post](https://blog.kenshuri.com/posts/003_define_custom_user.md) about adding a custom user model in Django.
 
 ## Set-up the project
 
